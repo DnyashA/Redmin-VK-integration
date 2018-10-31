@@ -1,1 +1,1 @@
-# Redmin-VK-integration
+# Redmine-VK-integration
