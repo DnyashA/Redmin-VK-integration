@@ -1,2 +1,2 @@
 # Redmine-VK-integration
-Push check
+Notification about Redmine events through VKontakte.
